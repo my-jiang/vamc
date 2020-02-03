@@ -1,7 +1,7 @@
 Package: vamc
 Type: Package
 Title: A Monte Carlo Valuation Framework for Variable Annuities
-Version: 0.1.1
+Version: 0.2.0
 Authors@R: c(
     person("Hengxin", "Li", email = "h343li@uwaterloo.ca", 
     role = c("aut", "cph")),
